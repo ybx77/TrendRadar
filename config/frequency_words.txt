@@ -8,10 +8,6 @@ HarmonyOS
 
 字节
 bytedance
-张一鸣
-
-特斯拉
-马斯克
 
 微软
 Microsoft
